@@ -19,7 +19,9 @@
     "client.js",
     "cordis.patch.yml",
     "locale/*.json",
-    "icon.svg"
+    "icon.svg",
+    "screenshots.json",
+    "assets/"
   ],
   "dsh": {
     "bundle": { "patch": "./cordis.patch.yml" },

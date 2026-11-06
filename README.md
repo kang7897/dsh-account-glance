@@ -4,6 +4,8 @@ A compact DeepSeek account panel in the sidebar footer, directly above the accou
 
 English | [中文](#中文)
 
+![Account glance card: balance, billing window and rate](assets/screenshot-card.png)
+
 ## Features
 
 - **Balance** — the signed-in DeepSeek account balance (top-up plus bonus wallets). Refreshed once a minute, on window focus, and when the page becomes visible again. Shows a short reason on failure and keeps the last good value when a refresh fails.
