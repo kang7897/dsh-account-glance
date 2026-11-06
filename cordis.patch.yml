@@ -1,0 +1,3 @@
+- insert:
+    - id: account-glance
+      name: '@kang7897/dsh-account-glance'

@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Sidebar Account Glance",
+    "description": "Adds a compact balance, off-peak/peak window and rate panel above the sidebar avatar."
+  }
+}
