@@ -1,7 +1,7 @@
 {
   "name": "@kang7897/dsh-account-glance",
   "version": "1.0.0",
-  "description": "Compact DeepSeek account panel above the sidebar avatar: balance, off-peak/peak window and rate.",
+  "description": "DeepSeek Harness 侧栏账户卡片：在头像上方显示账户余额、闲时/忙时计费时段与切换倒计时，以及两档费率。",
   "type": "module",
   "license": "MIT",
   "repository": {
